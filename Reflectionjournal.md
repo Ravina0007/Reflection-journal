@@ -5,23 +5,18 @@ Student Name: Ravina Rani
 
 Week #: 01
 
-# Peer assessment #
-
-Haritha and Shalini are good team player. I wants to give 4 and 3 rating respectively out of 5 from my prespective.
-
- I have learning attitude that motivates me to grow in life. I always tried to understand all the topics taught by Mr. Sami in a session. In this week I wants to give 4.5 rating for myself.
-
+ I have learning attitude that motivates me to grow in life. I would rate myself 4.5 out of 5 in this week.
 # Challenges Faced #
 
 First week is quite challenging for me as I learn many new tools and coding. I was unable to do activities on time as it was difficult for me to grasp all concepts at one time. I faced major challenge of understanding some topics, but Mr. Sami was there to explain those topics.
 
 # What Went Well and Lessons Learned: #
 
-I learned many lessons but and one of the best thing that I learned from last week is that how to work in pair. This way helps me out to share my douts with my peers and get the best solutions for them.
+I learned many lessons but and one of the best thing that I learned from this week is that how to begin the journey of web development with steps. Each step provides a detailed information about how things actually works. Moreover, some pictures and coding also makes it easy to grasp everything. 
 
 # Key Learning: #
-
-In week1 activity2 I learn how to run Node.js scripts directly within VSCode.
+In this week I learned some basics of github like how to create a repository, how to add, commit and push content on git hub.
+ I also learn how to run Node.js scripts directly within VSCode.
 In week1 I leraned new fundamentals like Node js, Express.js, postman, how to push files into git hub. 
 
 # Online Resources: #
@@ -34,15 +29,13 @@ There are various online resourses that hepled me a lot. For example the below l
 
 (3) https://github.com/Full-Stack-TX00FC40/sessions/blob/week2/slides.md
 
-# Coping Strategies: #
-
 # Academic Progress: #
 
 Initially I faced difficulty in some concepts but I improved myself with more practice and by learning online  tutorials.
 
 # Area's improved #
 
-It improved my Knowledge in programming. It also helped me how to use each tool perfectly. 
+It improved my Knowledge in various areas such as git, github and VS code. It also helped me how to use each tool perfectly. 
 
 
 # Soft Skills Development: #
